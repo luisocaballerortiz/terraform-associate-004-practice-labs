@@ -1,0 +1,9 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfbackup
+*.tf.backup
+crash.log
+crash.*.log
+resource-ids.json
